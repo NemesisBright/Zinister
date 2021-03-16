@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(216, 112, 112);
+    margin: auto;
+}
+header{
+    background-color: rgb(230, 32, 32);
+    margin: auto;
+    width: auto;
+    height: auto;
+    padding: 5px;
+    padding-left: 15%;
+}
+footer{
+    background-color: rgb(230, 32, 32);
+    margin: auto;
+    width: auto;
+    height: auto;
+    padding: 5px;
+    padding-left: 15%;
+}
+#main{
+    background-color: rgb(255, 224, 224);
+    border-radius: 10px;
+    width: 60%;
+    height: auto;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+}
+#games{
+    background-color: rgb(255, 224, 224);
+    border-radius: 10px;
+    width: 60%;
+    height: auto;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+}
+*{
+    font-family: monospace;
+}
+span{
+    color: rgb(255, 255, 255);
+}
+label{
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+}
+li{
+    text-align: justify;
+}
+img{
+    width: 50%;
+    height: 25%;
+    float: center;
+}
