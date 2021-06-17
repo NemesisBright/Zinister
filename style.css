@@ -1,0 +1,32 @@
+header{
+  width: auto;
+  height: 9%;
+  background-color: #2E4392;
+  padding: 5px;
+}
+body {
+  margin: auto;
+  background-color: #E6E9EF;
+}
+
+/* Text Styles */
+h1{
+  color: #6CC1E3;
+  padding-left: 20px;
+  font-family: sans-serif;
+}
+h2{
+  color: black;
+  padding: 20px;
+  font-family: sans-serif;
+}
+span{
+  color: #4995bE;
+}
+
+/* Div Bodies */
+#main{
+  margin: 25px auto;
+  width: 60%;
+  text-align: justify;
+}
