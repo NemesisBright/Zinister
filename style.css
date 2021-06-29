@@ -1,6 +1,6 @@
 header{
   width: auto;
-  height: 9%;
+  height: 9% auto;
   background-color: #2E4392;
   padding: 5px;
 }
@@ -22,6 +22,14 @@ h2{
 }
 span{
   color: #4995bE;
+}
+p{
+  font-family: sans-serif;
+}
+a{
+  color: white;
+  font-family: sans-serif;
+  text-decoration: none;
 }
 
 /* Div Bodies */
